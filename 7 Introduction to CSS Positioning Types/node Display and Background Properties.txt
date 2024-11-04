@@ -1,0 +1,78 @@
+display
+   block        //waxa uqaatay isbeeska oo dhan  block
+      <div> 
+      <p>
+      <h1>
+   inline       // way wada qebsanayaan inline hadii ee ha soo harto items
+      <span>
+      <a>
+      <img>
+   none
+   flex:
+   grid
+
+Background Properties
+    background-image  url()
+    background-repeat         //sawirka soo celcelina jif jiifa iyo jog joog
+    background-repeat-x       //sawirka soo celcelina jif jiifa
+    background-repeat-y       //sawirka soo celcelina jog joog 
+    background-no-repeat      // ha soo celcelini sawirka
+    background-position       //waxa u qabtaa sawirka in lagu maamulo mesha lageenaayo
+    background-size cover
+    background-size contain
+Positioning                   //element mashlaka dhigaayo in lagu maaamulo
+    Static
+    Relative                  //waxad heleesaa inaa maamusho element badan
+      top
+      right
+      botton
+      left 
+    Absolute                 //item in lagu maaamulo waxa hostagaa barnetiga
+      top
+      right
+      botton
+      left                
+    Fixed                     // mel lagu xero oona dhaqaaqin
+      top
+      right
+      botton
+      left   
+    Sticky                    //wuu taqnaana ilaa oo ka dhamaado elementgiisa
+      top
+      right
+      botton
+      left  
+              
+flex;
+    display: flex 
+    inline-flex
+    flex-direction: row     //waxay noqonaayan jif jif
+    row-reverse            //waxay noqonaayan jif jif ah lakiin kalagidisan
+    column 
+    column-reverse
+
+
+justify-content:          //balac loisticmaalaa  lo isticmaalaa 
+  flex-start
+  flex-end 
+  center 
+  space-between 
+  space-around 
+  space-evenly
+
+align-items:              //joq joq loisticmaaahaan lo isticmaalaa
+   flex-start     
+   flex-end  
+   center  
+   baseline  
+   stretch
+
+flex-wrap:
+   nowrap 
+   wrap                     //hadoo ceriir dareemo hos udag itmka  
+   wrap-reverse             //waxuu cagsi ku yahay wrap-reverse 
+flex
+   flex-grow                 //marko cabirka nagu bato
+   flex-shrink              //marko ka cabika nagu yaraado
+   flex-basis  
+    

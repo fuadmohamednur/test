@@ -1,0 +1,15 @@
+.Fixed-navbar{
+  position: fixed;
+  top: 0;
+  background-color:  #333;
+  width: 100%;
+  padding: 26px 0;
+  text-align: center;
+}
+
+.Fixed-navbar a {
+  text-decoration: none;
+  color: white;
+  padding: 10px 20px;
+}
+

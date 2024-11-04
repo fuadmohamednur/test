@@ -1,0 +1,22 @@
+.promo-container{
+  position: relative;
+  width: 300px;
+  height: 200px;
+}
+
+.promo-image{
+  width: 100%;/*ha ku fadhisto cabirkiisa qof ka masulka ah */
+
+}
+
+.promo-badge{
+  position: absolute;
+  top: 10px;
+  background-color: red;
+  color: white;
+  padding: 5px 5px;
+  border-radius: 5px;
+  font-size: 14px;
+  right: 10px;
+
+}

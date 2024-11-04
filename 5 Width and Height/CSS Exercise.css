@@ -1,0 +1,36 @@
+#books{
+  background-color: lightblue ;
+  width: 20vw;
+  height: 10vh;
+  margin: 5vh;
+  padding: 20px;
+}
+
+#movies{
+  background-color: lightgrey ;
+  width: 20vw;
+  height: 10vh;
+  margin: 5vh;
+  padding: 20px;
+}
+
+#foods{
+  background-color: lightgreen ;
+  width: 20vw;
+  height: 10vh;
+  margin: 5vh;
+  padding: 20px;
+}
+
+.interest-section{
+ text-align: center;
+ 
+}
+
+h1{
+  font-size: 24px ;
+}
+
+p{
+  font-size: 16px;
+}

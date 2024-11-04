@@ -1,0 +1,43 @@
+.nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+   background-color: rgb(75, 75, 138);
+}
+
+.ul{
+  display: flex;
+
+  list-style: none;
+}
+
+.nav ul a  {
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+.h1{
+  color: white;
+}
+
+.logo{
+  background-color: blue;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  color: white;
+}
+
+.logo:hover{
+ background-color: aqua;
+} 
+
+
+.center{
+  height: 80vh;
+  display: flex;
+  text-decoration: chartreuse;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,25 @@
+
+
+.media-player{
+  display: flex;
+  width: 200vh;
+
+}
+
+.control-button_prev{
+  background-color: blue;
+  flex: 1;
+  color: white;
+}
+
+.control-button_play{
+  background-color: yellow;
+  flex: 2;
+  color: rgb(0, 0, 0);
+}
+
+.control-button_next{
+  background-color: red;
+  flex: 1;
+  color: white;
+}

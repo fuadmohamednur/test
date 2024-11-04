@@ -1,0 +1,27 @@
+.container{
+  width:  100px;
+  height:  100px;
+  position: absolute;
+ 
+}
+
+img{
+  width: 100%;
+  border-radius: 5px;
+}
+
+.text1{
+  position: absolute;
+  left: 11px;
+  bottom:  -55px;
+  font-size: 11px;
+  color: rgb(158, 200, 248);
+}
+
+.text2{
+  position: absolute;
+  left: 25px;
+  bottom:  -38px;
+  font-size: 11px;
+  color: rgb(158, 200, 248);
+}
